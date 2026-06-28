@@ -1,0 +1,43 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    drb (2.2.3)
+    minitest (6.0.6)
+      drb (~> 2.0)
+      prism (~> 1.5)
+    nokogiri (1.19.4-x64-mingw-ucrt)
+      racc (~> 1.4)
+    openssl (4.0.2)
+    plat4m (1.1.8)
+    power_assert (3.0.1)
+    prism (1.9.0)
+    racc (1.8.1)
+    rake (13.4.2)
+    wxruby3 (1.8.0)
+      minitest (>= 5.15)
+      nokogiri (~> 1.12)
+      openssl (~> 4.0)
+      plat4m (~> 1.1)
+      power_assert (~> 3.0)
+      rake
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  wxruby3 (>= 1.5.1)
+
+CHECKSUMS
+  drb (2.2.3) sha256=0b00d6fdb50995fe4a45dea13663493c841112e4068656854646f418fda13373
+  minitest (6.0.6) sha256=153ea36d1d987a62942382b61075745042a2b3123b1cd48f4c3675af9cc7d6f1
+  nokogiri (1.19.4-x64-mingw-ucrt) sha256=051da97b8eccfdb5444fed40246a35e10d7298b9efe759b4cd25455ea04c587e
+  openssl (4.0.2) sha256=1037ad2868ae58df9ad917891c0c0f9815a1172f6846d4bcdd508e4c2ee747c2
+  plat4m (1.1.8) sha256=33a75459129a68b4b2480934e5c1006a9bedd7c99c28fa8641f049f24471b211
+  power_assert (3.0.1) sha256=8ce9876716cc74e863fcd4cdcdc52d792bd983598d1af3447083a3a9a4d34103
+  prism (1.9.0) sha256=7b530c6a9f92c24300014919c9dcbc055bf4cdf51ec30aed099b06cd6674ef85
+  racc (1.8.1) sha256=4a7f6929691dbec8b5209a0b373bc2614882b55fc5d2e447a21aaa691303d62f
+  rake (13.4.2) sha256=cb825b2bd5f1f8e91ca37bddb4b9aaf345551b4731da62949be002fa89283701
+  wxruby3 (1.8.0) sha256=5ea01ee0eb4f260e41aa6f3024a1d44992c3abedc9d4b3e8db1f5672ab50cd2e
+
+BUNDLED WITH
+  4.0.15
