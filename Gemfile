@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "wxruby3", ">= 1.5.1"
+gem "wxruby3"
