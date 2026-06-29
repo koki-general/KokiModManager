@@ -1,6 +1,10 @@
 <img width="380" height="237" alt="image" src="https://github.com/user-attachments/assets/caa3a8e4-6abc-49c1-93f2-d499d85300f3" />
 
+---
+
 **usage**
+
+- windows only for now :(
 - drop into game folder. launch vanilla through steam/game exe, and launch modded through KMM.
 
 **features**
